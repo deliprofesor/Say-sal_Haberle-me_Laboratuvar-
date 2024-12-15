@@ -1,4 +1,8 @@
-# digital communication laboratory
+# Sayısal Haberleşme Laboratuvarı
+
+![digital](https://github.com/user-attachments/assets/303a485b-0b80-47d0-9631-c0e15387a68c)
+
+
 
 # Modülasyon Teknikleri
 ASK (Amplitude Shift Keying)
